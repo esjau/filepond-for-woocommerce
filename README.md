@@ -5,3 +5,6 @@ This plugin integrates with WooCommerce, allowing customers to easily upload ima
 💌Please find the Free Version at Wordpress Repository or Download at : [Free Version Filepond for WooCommerce](https://app.bzn.gr)  <br>
 🧪 Demo website [Demo Website](https://filepond.bzn.gr/demo) <br>
 🙏Based on [[PQINA](https://github.com/pqina)](https://github.com/pqina/filepond) <br>
+<h1> Published Versions </h1>
+🟩1.0.0 <br>
+  --Initial Release
